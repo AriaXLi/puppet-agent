@@ -2,8 +2,6 @@ name: Docker test and publish
 
 on:
   push:
-    branches:
-      - main
 
 jobs:
   build-and-publish:
